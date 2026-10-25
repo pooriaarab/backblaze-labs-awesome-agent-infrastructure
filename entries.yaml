@@ -333,6 +333,14 @@
   b2_integration: ""
   last_verified: 2026-04-18
 
+- name: AgentSandboxes
+  url: https://agentsandboxes.fyi
+  docs_url: https://agentsandboxes.fyi/developers
+  description: Neutral index of cloud sandbox providers for AI agents. Source-cited specs on isolation, cold start, persistence, GPU and pricing per provider; free REST API and MCP endpoint, no key needed.
+  category: execution-sandboxes
+  b2_integration: ""
+  last_verified: 2026-10-25
+
 # ---------------- Browser and Computer Use ----------------
 
 - name: Browserbase
